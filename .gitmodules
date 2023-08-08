@@ -1,0 +1,3 @@
+[submodule "OvertakerPlugin"]
+	path = OvertakerPlugin
+	url = https://github.com/dablenparty/OvertakerPlugin.git

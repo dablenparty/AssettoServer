@@ -364,3 +364,7 @@ FodyWeavers.xsd
 
 out-linux-*
 out-win-*
+
+# JetBrains Rider
+.idea/
+*.iml
